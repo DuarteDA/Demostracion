@@ -1,1 +1,2 @@
-{\rtf1}
+- Este proyecto lo hice con la intención de demostrar lo que sé dé HTML y CSS hasta el momento.
+- El resposive no es muy bueno, ya que aún estoy en proceso de aprendizaje.
